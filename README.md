@@ -8,4 +8,4 @@ This collection serves as a testament to my passion for coding and innovation.Ea
 
 ## Demo
 
-[https://amirpd.github.io/miniProjects/ThemeBtn/](https://amirpd.github.io/miniProjects/ThemeBtn/)
+[https://amirpd.github.io/miniProject/ThemeBtn/](https://amirpd.github.io/miniProjects/ThemeBtn)
